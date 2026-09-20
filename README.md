@@ -1,6 +1,8 @@
-## wip
+<img width="2048" height="2048" alt="1000047295" src="https://github.com/user-attachments/assets/b76063b9-c76f-4934-aaa6-1f45ff856547" />
 
-<!--
+
+<!--`#8A7184` **name: 𝕮𝖆𝖑𝖊𝖙, she/her, aroace "Romance is BORINGG!"**
+
 **Hopeforhealing/Hopeforhealing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
